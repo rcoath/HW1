@@ -9,11 +9,19 @@
 #section {
     background-color:white;
     border-style: solid;
+    color: #FF934B
     border-width: 5px;
     padding: 10px
     width:1000px;
     padding:12px;
 }
+
+#resumeDiv {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 561px;
+} 
 
 body {
 	background-color:white;
@@ -27,8 +35,12 @@ h1 {
 	font-style:italic; font-weight:bold;}
 }
 
-div { background-color: white; }
+div { background-color: white;	
+ }
 
+h2 {
+	color: #FF934B;
+        font-style:italic; font-weight:bold;}
 </style>
 
 p {
